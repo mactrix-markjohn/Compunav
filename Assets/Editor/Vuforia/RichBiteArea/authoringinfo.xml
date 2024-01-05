@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.1" bbox="-2.4575 -2.3527 -9.2088 5.0177 1.7677 4.6519" targetId="ca838186de6e471d933aec665cefc994" name="RichBiteArea" pathAuthoring="ca838186de6e471d933aec665cefc994_authoring.glb" pathOcclusion="ca838186de6e471d933aec665cefc994_occlusion.3dt" pathNavMesh="ca838186de6e471d933aec665cefc994_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>
